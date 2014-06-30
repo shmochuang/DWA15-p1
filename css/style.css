@@ -1,0 +1,24 @@
+/* CSS Document */
+
+body {
+	
+	background:-webkit-linear-gradient(#00f7ff 0%, #ffffff 100%);
+	text-align: justify;
+	font-family: sans-serif;
+	margin-left: auto;
+	margin-right: auto;
+	width: 70%;
+	
+	
+}
+
+h1 {
+	text-align: center;
+}
+
+h1, h2 {
+	text-decoration: underline;
+	text-shadow:1px 1px 1px #2e0bf4;
+	
+}
+
